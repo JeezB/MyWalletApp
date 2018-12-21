@@ -24,3 +24,7 @@ If you are on MacOs, Type this command:			ionic cordova run ios
 
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+IF YOU HAVE AN ERROR WITH ANDROID CONCERNING PATH OR LICENSES: SOLUTIONS CAN BE FOUND ON THE POST BELLOW
+
+https://stackoverflow.com/questions/43275238/how-to-set-system-images-path-when-creating-an-android-avd
