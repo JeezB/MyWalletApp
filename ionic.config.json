@@ -1,0 +1,7 @@
+{
+  "name": "MyAnimeWatchlist",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

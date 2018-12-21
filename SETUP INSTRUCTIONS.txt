@@ -1,0 +1,26 @@
+SETUP INSTRUCTIONS:
+
+You need to install Node.js : 			https://nodejs.org/en/
+You need to install Ionic cordova :		npm install -g ionic cordova
+You need to install Angular 4(at least):	npm install -g @angular/cli
+You need to install Android studio and SDK:	https://developer.android.com/studio/
+	Dont forget to install android emulator(AVG) during the process
+
+If you use Mac OS, make sure you have the latest Xcode version downloaded in the appstore
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+To launch the app:
+
+Go to the app's directory: MyWalletApp 
+
+
+We did the app on windows and used the Android version:	ionic cordova run android
+
+
+
+If you are on MacOs, Type this command:			ionic cordova run ios
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
